@@ -1,0 +1,1 @@
+# Repositário referente aos algoritimos da plataforma Devaria
